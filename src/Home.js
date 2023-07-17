@@ -1,12 +1,12 @@
 const Home = () => {
 
-    return ( 
+    return (
         <div className="home">
-            <h2>Welcome!</h2>
+            <h2>Welcome</h2>
             <br></br>
             Planning on buying or selling real estate soon? You've come to the right place.<br></br>
             <br></br>
-I've been a Realtor now for 9 years, and perhaps more important is I have lived in the Smithville Mo and Platte City Mo area for over 25 years and am eager to help you accomplish your Real Estate goals. 
+I've been a Realtor now for 9 years, and perhaps more important is I have lived in the Smithville Mo and Platte City Mo area for over 25 years and am eager to help you accomplish your Real Estate goals.
 <br></br><br></br>
 As an avid fisherman and lake visitor I can also answer many questions you may have about Smithville Lake.
 <br></br><br></br>
@@ -28,7 +28,7 @@ Please call, text, or email me today to discuss your real estate needs. My conta
       <div>
         <a href="tel:816-873-3531">Office: 816-873-3531</a>
       </div>
-      <a href="mailto:northlandsales@hotmail.com?subject=Realtor Inquiry">northlandsales@hotmail.com</a>  
+      <a href="mailto:northlandsales@hotmail.com?subject=Realtor Inquiry">northlandsales@hotmail.com</a>
       <div className="office">
         <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
         <b>Brokerage Office: </b><br></br>
@@ -41,5 +41,5 @@ Please call, text, or email me today to discuss your real estate needs. My conta
 
   );
 }
- 
+
 export default Home;
